@@ -34,12 +34,13 @@ Allows you to set different keybinds for most keys while holding a Farming Tool
 - It should now be fully configured and notify you when you finish each lane<br>
 
 </details>
+
 #### Lane Switch Notification
 - Displays a Sound when you're  X (customizable) seconds away from the end of the current lane
     - Supports Customizing Sound, Text, Repeat Duration (How often it repeats), and Pitch
 #### Distance Display
 - Displays a HUD element of how far away you are from the end of the lane
-#### Corner Waypoints
+#### Corner Waypointss
 - Shows the corner of the Lane as a waypoint of the current lane you're farming
 ### Garden Level
 #### Display
@@ -144,11 +145,11 @@ Allows you to set different keybinds for most keys while holding a Farming Tool
 - Hypixel implemented this feature if you are past Milestone 20
 ### Yaw And Pitch
 #### Enable
-- Adds a HUD Display to show yaw and pitch, fades out without mouse movement
+- Adds a HUD Element to show yaw and pitch, fades out without mouse movement
 #### Precision
 - Adds Precision to the Yaw/Pitch to allow you to get the exact position for farming
 #### Show Without Tool
-- Does not require a tool in your hand for the HUD Display
+- Does not require a tool in your hand for the HUD Element
 #### Show Outside Garden
 - Allows it to be shown outside Garden
 #### Ignore Timeout
@@ -159,7 +160,7 @@ Allows you to set different keybinds for most keys while holding a Farming Tool
 #### Reducing Factor
 - Divides your Sensitivity by the amount Specified
 #### Show GUI
-- Adds a HUD Display to show if the feature is currently working
+- Adds a HUD Element to show if the feature is currently working
 #### Only in Ground
 - If you are not on the ground disable Sensitivity Reducer to allow mouse movement to behave as Normal
 #### Disable in Barn
@@ -222,9 +223,126 @@ Allows you to set different keybinds for most keys while holding a Farming Tool
 
 ## Visitor Garden Features
 ### Visitor Timer
+
 #### Visitor Timer
-- Adds a HUD Display for how many visitors you currently have, and how long until the next one
+- Adds a HUD Element for how many visitors you currently have, and how long until the next one
 #### Sixth Visitor Estimate
 - Estimates when the "Sixth visitor" will be available, because the counter for the next visitor counts down even when it's full
 #### Sixth Visitor Warning
 - Adds a Title for when the Sixth Visitor is available
+#### New Visitor Ping
+- Adds a Title for when you are less than 10 seconds away from a New Visitor
+- Useful for speedruns sucha s the Epheremal Gratitude Item
+
+### Visitor Shopping List
+#### Enable
+- Shows the items that Visitors request
+#### Only When Close
+- Only show the Shopping List when you are near Visitors
+#### Bazaar Alley
+- Also show the Shopping List while in Bazaar Alley
+- Useful for when you don't have a Booster Cookie
+#### Farming Areas
+- Shows the Shopping List while inside Farming Areas on public islands
+- Useful for Early Game players, although since you can paste items with compacted forms, it might be better to farm on garden
+#### Show Price
+- Shows the price for the items on the Shopping List
+#### Show Sack Count
+- Shows how many items you already have in your Sack
+#### Show Super Craft
+- Shows a button to super craft items if you have a lower tier in your sacks
+#### Item Preview
+- Shows the items they could possibly request before talking to the visitor
+### Visitor Reward Warning
+#### Notify in Chat
+- Sends a chat message of a detected special drop 
+#### Show over Name
+- Shows the special drop they're offering
+#### Block Refusing Reward
+- Prevents hitting the Decline Button unless you are holding the Bypass Key
+#### Bypass Key
+- Allows you to configure a key to press while declining/accepting the visitor to bypass the above setting
+#### Items
+- Allows you to select what items are prevented from being declined
+#### Coins Per Copper
+- With the Below options on, set a Coins Per Copper threshold
+#### Block Refusing Copper
+- Blocks refusing copper if it costs less than the threshold
+#### Block Accepting Copper
+- Blocks accepting copper if it's costs more than the threshold
+#### Acceptable Coin Loss
+- Allows you to set a max coin loss per visitor, settings above take precedent before this
+#### Block Refusing Low Loss
+- Stops you from declining a visitor with a lower loss than the threshold set above
+#### Block Accepting High Loss
+- Stops you from accepting a visitor with a higher loss than the theshold set above
+#### Block refusing New Visitors
+- Stops you from declining visitors you haven't served before
+- Useful for the Green Thumb Enchantment
+#### Opacity
+- How strong of a grey the offer buttons show if they are blocked
+#### Outline
+- Adds a Red/Green outline around the option you should set according to the set features above
+### Notification Chat
+- Show in chat when a Visitor is visiting your Garden
+### Notification Title
+- Shows a Title when a Visitor is visiting your Garden
+### Highlight Status
+- Highlights or adds a Line under the name based on the Status of Visitors<br>
+- Statuses are Waiting, New, Accepted, Declined. 
+### Hypixel Message
+- Hides the chat message that Hypixel sends when a new visitor arrives
+### Hide Chat
+- Hides the chat message responses from the garden
+- Does not remove Beth and Spaceman messages\
+### Visitor Drop Statistic Counter
+#### Enabled
+- Counts the rewardss from visitors and displays them as a HUD element
+#### Text Formats
+- Adds or removes Elements from the Visitor Drop Statistic Counter HUD element
+#### Display Numbers First
+- Choose if you want to display the amount obtained before or after the drop 
+#### Display Icons
+- Replaces the drop names with icons of the obtained item, also compacts the HUD element by taking less horizontal space
+### Accept Hotkey
+- Accepts a visitor when hitting the set key
+### Highlight Visitors in SkyBlock
+- Highlights NPC's that can be visitors outside of the Garden
+### Block Interacting with Visitors
+- Allows you to block clicking on certain visitors for Visitor Cycling
+- Supports only blocking on Bingo
+
+## Crop Milestone Garden Features
+
+### Progress Display
+- Shows a HUD for the Progress and ETA to the next Crop Milestone
+- For full accuracy you need a Mathematical Hoe or the Cultivating Enchantment
+### Overflow
+#### Crop Milestone Display
+- Shows Overflow levels in the Crop Milestone HUD Element
+#### Best Crop Time
+- Shows overflow Levels in the Best Crop Time Display (for overflow Average Crop Milestone)
+#### Inventory
+- Shows overflow levels as the stack size in the Crop Milestone Menu
+- Also changes the Crop Milestone Average display to average overflow
+#### Tooltip
+- Shows overflow level progress in the tooltip in the Crop Milestone Menu
+#### Discord RPC
+- Shows overflow levels in the Discord Rich Presence feature
+#### Chat
+- Sends messages upon gaining an Overflow crop milestone level
+### Warn When Close
+- Warns 5 seconds before when the next Crop Milestone level will happen
+### Time Format
+- Changes the Highest time unit to show for the Crop Milestone Display
+### Maxed Milestone
+- Calculate progress to 46 instead of the next milestone
+### Milestone Text
+- Menu that allows Customizing the Crop Milestone HUD Element
+### Block Broken Precision
+- Adjust the 
+## Optimal Speed Garden Features
+
+## Composter Garden Features
+
+## Pests Garden Features
