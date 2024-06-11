@@ -137,3 +137,21 @@ Allows you to set different keybinds for most keys while holding a Farming Tool
 - Pops up with a window when the game is out of focus
 #### Warn For
 - Allows you to Customize which crops you want to look forward to
+### Armor Drop Tracker
+#### Enabled
+- Tracks all drops you get from Armor
+#### Hide Chat
+- Hides the messages from farming armor drops
+### Anita Shop
+#### Medal Prices
+- Shows the Price per Gold Medal in Anita's Shop (Higher is Better)
+#### Extra Farming Fortune
+- Adds Price and Current tier to the Anita Farming Forunte Upgrade
+- Since the Anita Menu item disappears when it's maxed, it is not visible after that
+### Farming Fortune Display
+#### FF Display 
+- Shows your Farming Fortune and Crop Fortune combined for the tool you're holding as a HUD Element
+#### Farming Fortune Guide
+- Shows possible farming fortune, and breaks down the ways you can get it for a specific crop, or global buffs, sorted by lowest price to highest
+- Also visible by typing /ff
+
