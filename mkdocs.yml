@@ -1,4 +1,15 @@
 site_name: Hypixel Skyblock Mods
+site_url: https://nealkitt.moe
+repo_name: Nealkitt/Hypixel-Mods-Wiki
+repo_url: https://github.com/nealkitt/Hypixel-Mods-Wiki
+nav:
+  - index.md
+  - SkyHanni Features:
+    - SkyHanni/GUI.md
+    - SkyHanni/Garden.md
+    - SkyHanni/Crimson_Isle.md
+
+  
 theme:
   name: material
   features:

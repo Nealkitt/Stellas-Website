@@ -1,4 +1,4 @@
-# Hypixel Skyblock Mods Features
+# Main Page
 
 This Wiki is a WIP, this is going to start with SkyHanni, and possibly add other Mods, their features, and downloads for those mods
 
