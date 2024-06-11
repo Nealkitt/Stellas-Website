@@ -1,13 +1,22 @@
-site_name: Hypixel Skyblock Mods
+site_name: Stella's Webpage
 site_url: https://nealkitt.moe
-repo_name: Nealkitt/Hypixel-Mods-Wiki
-repo_url: https://github.com/nealkitt/Hypixel-Mods-Wiki
+repo_name: Nealkitt/Stellas-Website
+repo_url: https://github.com/nealkitt/Stellas-Website
 nav:
   - index.md
-  - SkyHanni Features:
-    - SkyHanni/GUI.md
-    - SkyHanni/Garden.md
-    - SkyHanni/Crimson_Isle.md
+  - Mods Features:
+    - mods_features/index.md
+    - SkyHanni Features:
+      - mods_features/SkyHanni/GUI.md
+      - mods_features/SkyHanni/Garden.md
+      - mods_features/SkyHanni/Crimson_Isle.md
+      - mods_features/SkyHanni/The_Rift.md
+      - mods_features/SkyHanni/Fishing.md
+      - mods_features/SkyHanni/Mining.md
+      - mods_features/SkyHanni/Combat.md
+      - mods_features/SkyHanni/Slayer.md
+
+
 
   
 theme:
