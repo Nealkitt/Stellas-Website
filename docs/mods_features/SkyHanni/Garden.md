@@ -404,3 +404,69 @@ Allows you to set different keybinds for most keys while holding a Farming Tool
 #### Min Fuel
 - Adjusts the Fuel amount to notify on
 ## Pests Garden Features
+### Pest Spawn
+#### Chat Message Format
+- Changes how the Pest Spawn chat message is formatted
+#### Show Title
+- Shows a Title when a pest spawns
+### Pest Finder
+#### Display
+- Shows a display with the pest locations known from tab/spawn messages
+#### Show Plot in World
+- Marks infested plot names in the world with a border around the plot
+#### Plot Visibility Type
+- Choose between showing the Name, or plot border, or both
+#### Only With Vacuum
+- Only show the Pest Display while holding a vacuum
+#### Show For Seconds
+- Adjust the timeout period for X seconds after no longer holding vacuum
+#### Teleport Hotkey
+- Allows a hotkey to instantly teleport to the nearest infected plot
+#### Always Teleport
+- Teleport even if you're currently in an infected plot
+#### Back To Garden
+- If you've vacuumed all pests, teleport to warp garden, or where your home is set
+### Pest Waypoint
+#### Enabled
+- Shows the waypoint of where a pest should be
+- Due to hypixel changing the logic, this is no longer an exact placement and just outlines where the particles point
+#### Hide Particles
+- Hides the particles the vacuum ability has
+#### Draw Line
+- Draws a line from the center of your screen to the Waypointn
+#### Show For Seconds
+- Make the waypoint disappear after X seconds
+### Pest Timer
+#### Enabled
+- Adds a HUD Element for the time since last pest spawn
+#### Only With Vacuum
+- Only show the time since last pest spawn when you're holding a vacuum
+### Pest Profit Tracker
+#### Enabled
+- Adds a HUD element for tracking the items you get while killing pests
+#### Hide messages
+- Hides the regular pest drop messages
+#### Time Displayed
+- Adjusts the time the Profit Counter is displayed after killing a pest
+### Spray
+#### Pest Spray Selector
+- Adds a HUD Element to display what the pests are attracted to while holding a Sprayonator
+#### Draw Plot Border
+- Draw plot borders while holding the Sprayonator to show what you've sprayed already
+#### Spray Display
+- Adds a HUD Element to show the active spray and duration left of the plot you're currently in
+#### Show If Not Sprayed
+- Also make the HUD Element show if your current plot is not sprayed
+#### Spray Expiration Notice
+- Sends a notification when your spray is about to run out while in The Garden
+### Stereo Harmony
+#### Enabled
+- Adds a HUD Element for what pest currently has increased odds from your Vinyl
+#### Always Show
+- Shows the display mentioned previously even when not farming
+#### Show Pest Head
+- Show a head on the HUD Element for the current pest being boosted
+#### Show Crop Icon
+- Shows the icons of the token crops from the boosted pest
+#### Hide when None
+- Hides the HUD Element when you do not currently have any vinyl selected
