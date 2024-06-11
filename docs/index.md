@@ -1,12 +1,12 @@
 # Hypixel Skyblock Mods Features
 
-This Wiki is a WIP, this is going to start with SkyHanni, and possibly add other mods and their features
+This Wiki is a WIP, this is going to start with SkyHanni, and possibly add other Mods, their features, and downloads for those mods, 
 
 ## Skyblock Mods
 
- [NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases) - Skyblock Mod that adds unique features such as Inventory Buttons, Storage Overlay, and various Skill progress displays
+ [SkyHanni](https://github.com/hannibal002/SkyHanni/releases) - (1.8.9) - Huge skyblock mod mostly used for the garden features, and custom scoreboard, depends on [NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases)
 
- [SkyHanni](https://github.com/hannibal002/SkyHanni/releases) - Start the live-reloading docs server.
+ [NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases) - Skyblock Mod that adds unique features such as Inventory Buttons, Storage Overlay, and various Skill progress displays
 
  [Skytils](https://github.com/Skytils/SkytilsMod/releases) - Dungeon mods with various solvers, Crystal Hollow Map, and Dungeon Score Calculation
 
