@@ -109,3 +109,31 @@ Allows you to set different keybinds for most keys while holding a Farming Tool
 - Hides the position and name of the crop (Still shows the Icon) to take up less Horizontal Space
 #### Compact Price
 - Compacts the price by rounding, EG 11,423,132 to 11.4M
+#### Use Custom
+- Allows you to set what the Money/H Defaults to (Eg: Sell Offer, NPC, Instasell)
+#### Merge Seeds
+- Merges the Wheat and Seed price together 
+#### Include X
+- Various Toggles to add profit from Bountiful, Mooshroom Cow, Armor Drops, Dicer Drops
+#### Hide Title
+- Hides the first line of the Money/H Display to compact it even further
+### Next Jacob's Contest
+
+#### Show Jacob's Contest
+- Adds a HUD Element with what the next Jacob's Contest is
+#### Outside Garden
+- Shows the HUD Element outside garden
+#### In Other GUIs 
+- Shows the Jacob's Contest Display in other Farming GUIs
+#### Fetch Contests
+- If you haven't opened calendar, fetch the Contests from Elitebots API
+#### Share Contests
+- Allows you to share Contests to the Elitebots API so other people can use the previous feature without opening
+#### Warning
+- Displays a Warning for Upcoming Jacob's Contest
+#### Warning Time
+- Customize the amount of seconds before a Contest you're notified
+#### Popup Warning
+- Pops up with a window when the game is out of focus
+#### Warn For
+- Allows you to Customize which crops you want to look forward to

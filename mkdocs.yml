@@ -7,6 +7,7 @@ nav:
   - Mods Features:
     - mods_features/index.md
     - SkyHanni Features:
+      - mods_features/SkyHanni/index.md
       - mods_features/SkyHanni/GUI.md
       - mods_features/SkyHanni/Garden.md
       - mods_features/SkyHanni/Crimson_Isle.md
