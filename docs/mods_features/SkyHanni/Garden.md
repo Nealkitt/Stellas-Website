@@ -340,9 +340,67 @@ Allows you to set different keybinds for most keys while holding a Farming Tool
 ### Milestone Text
 - Menu that allows Customizing the Crop Milestone HUD Element
 ### Block Broken Precision
-- Adjust the 
+- Adjust the decimals and precision shown by your Blocks per second Display
+### Seconds Before Reset
+- Adjusts the time before the Blocks per second reset
+### Best Crop 
+#### Best Crop Time
+- Lists all the crops you have farming data with and sorts it by Skyblock XP or Garden XP
+#### Sort Type
+- Adjust between sorting between Garden and Skyblock XP
+#### Only Show Top
+- Shows the top amount of crops for the above setting
+#### Extend Top List
+- Adds the crop for the held tool to the List even if it's not in the top X
+#### Always On
+- Always show the Best XP Display while in the garden
+#### Compact Display
+- Compacts the Best Crop XP HUD display
+#### Hide Title
+- Hides the Title for the top Garden/Skyblock XP Display to compact it further
+### Mushroom Pet Perk
+#### Display Enabled
+- Shows a HUD element for Mushroom while using Mushroom Cow Pet
+#### Mushroom Text
+- Allows adjustment of the Mushroom Pet Perk HUD Element
 ## Optimal Speed Garden Features
+### Show On HUD
+- Adds a HUD Element for the Optimal speed for your held tool
+### Warning Title
+- Warn via title when you are not using the set speed
+### Rancher Boots
+- Allows you to set the optimal speed in the Rancher Boots menu by clicking the preset
+### Custom Speed
+- Drop-down menu to customize the Optimal Speed for crops
 
 ## Composter Garden Features
-
+### Composter Overlay
+- Adds an overlay while in the Composter to show organic matter, fuel, profit, and 
+### Overlay Price
+- Select in between Instant Buy and Buy Order for the composter Overlay
+### Retrieve from
+- Chooses whether to retrieve materials from Sacks or the Bazaar by default
+### Composter Display
+- Displays Composter Data as a HUD Element
+### Outside Garden
+- Show the time until composter is empty outside the garden
+### Composter Warning
+- Warns when the composter is close to empty/is empty
+### Upgrade Price
+- Shows the price to upgrade the Composter in the tooltip
+### Round Amount Needed
+- Rounds the amount needed down so that you don't waste organic material/fuel due to the composter cap
+### Highlight Upgrade
+- Highlights upgrades that can be Currently bought
+### Inventory Numbers
+- Shows the amount of Organic Matter, Fuel, and Compost available
+### Notification when Low Composter
+#### Enable
+- Shows a Notification when you are going to run low on  Composter supplies
+#### Show Title
+- Also show a title to notify the player
+#### Min Organic Matter
+- Adjusts the Organic Matter amount to notify on
+#### Min Fuel
+- Adjusts the Fuel amount to notify on
 ## Pests Garden Features
